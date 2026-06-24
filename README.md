@@ -1,1 +1,1 @@
-# pins2
+# pins
